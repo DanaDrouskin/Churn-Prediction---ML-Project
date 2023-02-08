@@ -8,4 +8,7 @@ The dataset includes 7043 rows & 21 columns.
 
 ![image](https://user-images.githubusercontent.com/123159309/217530010-625d965a-6da3-4bd1-8d7d-89882f8d08a4.png)
 
+[Churn_Prediction_ML_Project.pdf](https://github.com/DanaDrouskin/Churn-Prediction---ML-Project/files/10685520/Churn_Prediction_ML_Project.pdf)
+
+
 
